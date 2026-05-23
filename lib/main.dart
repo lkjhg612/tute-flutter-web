@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: 'Cơm Tấm Chay TUTE',
       debugShowCheckedModeBanner: false,
       //home: Homepage(),
       initialRoute: '/',
