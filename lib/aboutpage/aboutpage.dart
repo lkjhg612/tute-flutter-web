@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterweb/aboutpage/AboutIngredientSection.dart';
+import 'package:flutterweb/aboutpage/aboutingredientsection.dart';
 import 'package:flutterweb/aboutpage/about_team_section.dart';
 import 'package:flutterweb/aboutpage/aboutsection.dart';
 import 'package:flutterweb/aboutpage/aboutvaluesection.dart';
@@ -34,6 +34,7 @@ class _AboutContactState extends State<AboutContact> {
             SingleChildScrollView(
               child: Column(
                 children: [
+             
                   const SizedBox(height: 82),
                   // const HeroAboutSection(),
                   const HeroAboutSectionUpgrade(),
@@ -45,7 +46,7 @@ class _AboutContactState extends State<AboutContact> {
                   // const AboutJourneySection(),
 
                   //const AboutTeamSection(),
-                  const AboutIngredientSection(),
+                  AboutIngredientSection(),
                   const OurJourneySection(),
                   const Footer(),
                 ],

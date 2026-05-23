@@ -1,6 +1,6 @@
 import 'package:emailjs/emailjs.dart' as emailjs;
 import 'package:flutter/material.dart';
-import 'package:flutterweb/contactpage/Input_form_upgrade.dart';
+import 'package:flutterweb/contactpage/input_form_upgrade.dart';
 
 class ContactFormUpgrade extends StatefulWidget {
   const ContactFormUpgrade({super.key});
