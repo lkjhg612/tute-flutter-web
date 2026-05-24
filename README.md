@@ -36,7 +36,7 @@ A responsive restaurant website built with Flutter Web, designed to introduce th
 
 - Mobile Drawer
 
-![Drawer](screenshots/mobile.png)
+![Drawer](screenshots/drawer.png)
 
 
 
