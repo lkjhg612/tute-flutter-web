@@ -1,4 +1,4 @@
-# 🌱 TUTE - Vegan Restaurant Website
+# TUTE - Vegan Restaurant Website
 
 A responsive restaurant website built with Flutter Web, designed to introduce the TUTE vegan brand, menu, and ordering platforms.
 
@@ -26,7 +26,19 @@ A responsive restaurant website built with Flutter Web, designed to introduce th
 
 + Preview
 
-(Add screenshots here)
+- Homepage
+
+![Homepage](screenshots/home.png)
+
+- Menu Page
+
+![Menu](screenshots/menu.png)
+
+- Mobile Drawer
+
+![Drawer](screenshots/mobile.png)
+
+
 
 🍎 macOS Setup (Optional)
 
